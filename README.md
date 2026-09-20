@@ -108,6 +108,7 @@ Execute Python Pipeline:
 Open notebooks/Data_Governance_Pipeline.ipynb in Google Colab or Jupyter.
 
 Run all cells to generate raw data, execute the governance engine, and export Operations_Governance_Dataset.xlsx.
+https://ai.studio/apps/e8b953f6-2c74-421a-92d3-909c970d4a8a
 
 Open Power BI Dashboard:
 
